@@ -1,0 +1,3 @@
+node_modules
+.next
+#  .next 는 빌드시 next 폴더가생김 그것을 ignore 하기위해
